@@ -13,7 +13,14 @@ package.json
 
 # INSTALL
 
-You can download the project and start it directly.
+We need [Node.js](https://nodejs.org/en/) for the NPM (Node Package Manager)
+
+And install [Parcel](https://parceljs.org/) global
+```
+npm install -g parcel-bundler
+```
+
+You can download this project and start it directly.
 Create a Project folder and open your Terminal, to switch in the project folder.
 ```
 cd /Users/username/project/path/
