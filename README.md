@@ -29,7 +29,7 @@ Clone the repo to your local envoirement, for clone you need [Git](https://git-s
 ```
 git clone https://github.com/prod3v3loper/parcel-html-sass-javascript.git /Users/username/Projects/
 ```
-And now install all Dev Dependencies in package.json
+And now install all Dev Dependencies in package.json with the command
 ```
 npm install
 ```
