@@ -25,7 +25,7 @@ Or create a Project folder and open your Terminal, to switch in the project fold
 ```
 cd /Users/username/project/path/
 ```
-Clone the repo to your local envoirement, for clone you need [Git](https://git-scm.com/) or donwload
+Clone the repo to your local envoirement, for clone you need [Git](https://git-scm.com/) or [Download](https://github.com/prod3v3loper/parcel-html-sass-javascript/archive/master.zip)
 ```
 git clone https://github.com/prod3v3loper/parcel-html-sass-javascript.git /Users/username/Projects/
 ```
