@@ -11,7 +11,7 @@ package.json
     }
 ```
 
-# INSTALL
+# Install
 
 We need [Node.js](https://nodejs.org/en/) for the NPM (Node Package Manager)
 
@@ -34,7 +34,7 @@ And now install all Dev Dependencies in package.json
 npm install
 ```
 
-# USE
+# Usage
 We added commands in our package.json to run with npm instead of npx
 
 package.json
