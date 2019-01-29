@@ -20,12 +20,12 @@ And install [Parcel](https://parceljs.org/) global
 npm install -g parcel-bundler
 ```
 
-You can download this project and start it directly.
-Create a Project folder and open your Terminal, to switch in the project folder.
+You can download this project, run `npm install` after path change and start it directly.
+Or create a Project folder and open your Terminal, to switch in the project folder.
 ```
 cd /Users/username/project/path/
 ```
-Clone the repo to your local envoirement
+Clone the repo to your local envoirement, for clone you need [Git](https://git-scm.com/)
 ```
 git clone https://github.com/prod3v3loper/parcel-html-sass-javascript.git /Users/username/Projects/
 ```
